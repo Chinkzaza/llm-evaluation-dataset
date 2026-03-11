@@ -1,0 +1,5 @@
+[
+  {"id": 1, "input": "What is photosynthesis?", "expected": "Process plants use to convert sunlight into energy"},
+  {"id": 2, "input": "Summarize Hamlet.", "expected": "Prince Hamlet seeks revenge for his father's murder"},
+  {"id": 3, "input": "Explain AI simply.", "expected": "AI allows machines to perform tasks that normally require human intelligence"}
+]
